@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.raflyramadhandev.oper",
-    "sha256_cert_fingerprints": ["AA:BB:CC:..."]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.rafly_ramadhan_dev.twa",
+        "sha256_cert_fingerprints": ["B0:F7:E6:C1:AF:B6:B6:67:E6:53:8A:F8:8F:B6:4A:79:B0:B8:DC:0F:E5:0F:70:42:E0:A1:87:CA:77:E6:CB:5A"]
+      }
+    }]
